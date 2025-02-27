@@ -48,7 +48,7 @@
                 name: "serenity_os"
                 text_alignment: "CenterLeft"
                 fixed_height: 14
-                text: "SerenityOS"
+                text: "esviOS"
             }
 
             @GUI::Label {
@@ -61,7 +61,7 @@
                 name: "copyright"
                 text_alignment: "CenterLeft"
                 fixed_height: 14
-                text: "Copyright © the SerenityOS developers, 2018-2024"
+                text: "Copyright © the esviOS developers, 2025"
             }
 
             @GUI::Layout::Spacer {}
